@@ -1,4 +1,9 @@
 # CRISPETa_PC
+Adaptation of CRISPETa for paired sgRNA designs in protein coding ORFs\
+CRISPETa_PC needs a database (sqlite) in order to calculate the number of Off-Targets. Check reference for more information
+
+
+<i>Pulido-Quetglas, C., Aparicio-Prat, E., Arnan, C., Polidori, T., Hermoso, T., Palumbo, E., Ponomarenko, J., Guigo, R., Johnson, A. K. (2017). Scalable Design of Paired CRISPR Guide RNAs for Genomic Deletion. PLOS Computational Biology, 13(3), e1005341. https://doi.org/10.1371/journal.pcbi.1005341<\i>
 
 
 ### Example:
