@@ -1,4 +1,4 @@
-# CRISPETa_PC
+# CRISPETa_PC - BETA
 Adaptation of CRISPETa for paired sgRNA designs in protein coding ORFs\
 CRISPETa_PC needs a database (sqlite) in order to calculate the number of Off-Targets. Check reference for more information
 
